@@ -1,6 +1,6 @@
 const request = require('request');
 const apiOptions = {
-    server: 'https://foodiesrestaurant.herokuapp.com'
+    server: 'https://foodiesrestaurant.herokuapp.com/'
 };
 
 const _renderCreatePage = function (req, res){
